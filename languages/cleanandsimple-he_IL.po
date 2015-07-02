@@ -1,0 +1,302 @@
+# Copyright (C) 2013 Clean and Simple Contact Form
+# This file is distributed under the same license as the Clean and Simple Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form 4.2.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/clean-and-simple-contact-form-"
+"by-meg-nicholas\n"
+"POT-Creation-Date: 2013-11-06 14:29:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-01-28 22:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: he_IL\n"
+
+#: class.cscf.php:149
+msgid "Settings"
+msgstr "הגדרות"
+
+#: class.cscf_contact.php:54
+msgid "Sorry the email addresses do not match."
+msgstr "מצטערים כתובות הדוא\"ל אינן תואמות."
+
+#: class.cscf_contact.php:59 views/contact-form.view.php:32
+msgid "Please give your email address."
+msgstr "יש לרשום כתובת דואר אלקטרוני."
+
+#: class.cscf_contact.php:63
+msgid "Please confirm your email address."
+msgstr "יש לאשר את כתובת הדואר אלקטרוני."
+
+#: class.cscf_contact.php:68 views/contact-form.view.php:79
+msgid "Please give your name."
+msgstr "בבקשה לרשום השם שלך."
+
+#: class.cscf_contact.php:72
+msgid "Please enter a message."
+msgstr "יש להזין הודעה."
+
+#: class.cscf_contact.php:76 views/contact-form.view.php:33
+#: views/contact-form.view.php:57
+msgid "Please enter a valid email address."
+msgstr "נא להזין כתובת דואר אלקטרוני חוקית."
+
+#: class.cscf_contact.php:84
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "מצטערים הקוד לא הוזן כראוי אנא נסה שוב."
+
+#: class.cscf_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "הודעה נשלחה"
+
+#: class.cscf_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "תודה לך על פנייתך, נישתדל ליצור איתך קשר בהקדם."
+
+#: class.cscf_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"נא להזין את פרטי הקשר שלך והודעה קצרה ואנחנו נשתדל ליצור איתך קשר בהקדם."
+
+#: class.cscf_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr "- פניה מהאתר"
+
+#: class.cscf_settings.php:30
+msgid "Contact Form Settings"
+msgstr "הגדרות טופס יצירת קשר"
+
+#: class.cscf_settings.php:30
+msgid "Contact Form"
+msgstr "טופס יצירת קשר"
+
+#: class.cscf_settings.php:40
+msgid "Clean and Simple Contact Form Settings"
+msgstr "הגדרות טופס יצירת קשר נקייה ופשוטה"
+
+#: class.cscf_settings.php:46
+msgid "Donate $10, $20 or $50!"
+msgstr "לתרום 10 $, 20 $ או 50 $!"
+
+#: class.cscf_settings.php:48
+msgid ""
+"If you like this plugin, please donate to support development and "
+"maintenance of:"
+msgstr "אם אתה אוהב את התוסף הזה, בבקשה תרום כדי לתמוך בפיתוח ותחזוקה של:"
+
+#: class.cscf_settings.php:48
+msgid "Clean and Simple Contact Form!"
+msgstr "טופס יצירת קשר נקי ופשוט!"
+
+#: class.cscf_settings.php:63
+msgid "You are using version"
+msgstr "אתה משתמש בגרסה"
+
+#: class.cscf_settings.php:64
+msgid "If you find this plugin useful please consider"
+msgstr "אם אתה מוצא את התוסף הזה שימושי נשמח אם"
+
+#: class.cscf_settings.php:67
+msgid "leaving a review"
+msgstr "תשלח לנו ביקורת"
+
+#: class.cscf_settings.php:69
+msgid "Thank you!"
+msgstr "תודה לך!"
+
+#: class.cscf_settings.php:74
+msgid ""
+"NOTICE: You have JetPack's Contact Form enabled please deactivate it or use "
+"the shortcode [cscf-contact-form] instead."
+msgstr ""
+"שים לב: יש לך טופס יצירת קשר של JetPack אפשר בבקשה לנטרל אותה או להשתמש בקוד "
+"הקצר [cscf מגע הטופס] במקום."
+
+#: class.cscf_settings.php:75
+msgid "Read More"
+msgstr "קראו עוד"
+
+#: class.cscf_settings.php:79
+msgid "Please Note: To add the contact form to your page please add the text"
+msgstr "שים לב: כדי להוסיף טופס יצירת קשר לדף שלך בבקשה להוסיף את הטקסט"
+
+#: class.cscf_settings.php:79
+msgid "to your post or page."
+msgstr "לפוסט או לדף שלך."
+
+#: class.cscf_settings.php:98
+msgid "ReCAPTCHA Settings"
+msgstr ""
+
+#: class.cscf_settings.php:106
+msgid "Use reCAPTCHA :"
+msgstr ""
+
+#: class.cscf_settings.php:112
+msgid "reCAPTCHA Theme :"
+msgstr ""
+
+#: class.cscf_settings.php:118
+msgid "reCAPTCHA Public Key :"
+msgstr ""
+
+#: class.cscf_settings.php:124
+msgid "reCAPTCHA Private Key :"
+msgstr ""
+
+#: class.cscf_settings.php:130
+msgid "Message Settings"
+msgstr "הגדרות הודעה"
+
+#: class.cscf_settings.php:134
+msgid "Recipient Emails :"
+msgstr "הודעות דוא\"ל של נמען:"
+
+#: class.cscf_settings.php:140
+msgid "Confirm Email Address :"
+msgstr "אשר כתובת דוא\"ל:"
+
+#: class.cscf_settings.php:146
+msgid "Override 'From' Address :"
+msgstr ""
+
+#: class.cscf_settings.php:152
+msgid "'From' Email Address :"
+msgstr "'מאת' כתובת דוא\"ל:"
+
+#: class.cscf_settings.php:158
+msgid "Email Subject :"
+msgstr "כותרת הודעה דואר אלקטרוני:"
+
+#: class.cscf_settings.php:164
+msgid "Message :"
+msgstr "הודעה:"
+
+#: class.cscf_settings.php:170
+msgid "Message Sent Heading :"
+msgstr "כותרת נשלחה הודעה:"
+
+#: class.cscf_settings.php:176
+msgid "Message Sent Content :"
+msgstr "תוכן שנשלח הודעה:"
+
+#: class.cscf_settings.php:182
+msgid "Styling and Validation"
+msgstr "עיצוב ואימות"
+
+#: class.cscf_settings.php:186
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+"השתמש בגיליון סגנון ברירת המחדל של תוסף (un-tick להשתמש בסגנון גיליון נושא "
+"שלך במקום):"
+
+#: class.cscf_settings.php:192
+msgid "Use client side validation (AJAX) :"
+msgstr ""
+
+#: class.cscf_settings.php:262
+msgid "Enter your reCAPTCHA settings below :"
+msgstr ""
+
+#: class.cscf_settings.php:263
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr ""
+
+#: class.cscf_settings.php:268
+msgid "Enter your message settings below :"
+msgstr "הזן את ההגדרות של ההודעות שלך:"
+
+#: class.cscf_settings.php:342
+msgid "Red"
+msgstr ""
+
+#: class.cscf_settings.php:343
+msgid "White"
+msgstr ""
+
+#: class.cscf_settings.php:344
+msgid "Blackglass"
+msgstr ""
+
+#: class.cscf_settings.php:345
+msgid "Clean"
+msgstr ""
+
+#: views/contact-form.view.php:24
+msgid "Email Address:"
+msgstr "כתובת דוא\"ל:"
+
+#: views/contact-form.view.php:36
+msgid "Your Email Address"
+msgstr "כתובת הדואר האלקטרוני שלך"
+
+#: views/contact-form.view.php:47
+msgid "Confirm Email Address:"
+msgstr "אשר כתובת דוא\"ל:"
+
+#: views/contact-form.view.php:56 views/contact-form.view.php:58
+msgid "Please enter the same email address again."
+msgstr "אנא הכנס אותה כתובת דוא\"ל שוב."
+
+#: views/contact-form.view.php:61
+msgid "Confirm Your Email Address"
+msgstr "אשר את כתובת הדואר האלקטרוני שלך"
+
+#: views/contact-form.view.php:72
+msgid "Name:"
+msgstr "שם:"
+
+#: views/contact-form.view.php:82
+msgid "Your Name"
+msgstr "השם שלך"
+
+#: views/contact-form.view.php:92
+msgid "Message:"
+msgstr "הודעה:"
+
+#: views/contact-form.view.php:99
+msgid "Please give a message."
+msgstr "יש לרשום הודעה."
+
+#: views/contact-form.view.php:101
+msgid "Your Message"
+msgstr "ההודעה שלך"
+
+#: views/contact-form.view.php:123
+msgid "Send Message"
+msgstr "שלח הודעה"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "סליחה, יש בעיה ההודעה שלך לא נשלחה."
+
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr ""

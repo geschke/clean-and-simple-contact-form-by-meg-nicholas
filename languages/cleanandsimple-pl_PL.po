@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form\n"
+"POT-Creation-Date: 2014-05-18 14:32+0100\n"
+"PO-Revision-Date: 2014-05-18 15:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: Radosłąw Rak <radekdb87@gmail.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.cscf.php:151
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: class.cscf_contact.php:63
+msgid "Sorry the email addresses do not match."
+msgstr "Przepraszamy adresy e-mail nie pasują."
+
+#: class.cscf_contact.php:68 views/contact-form.view.php:54
+msgid "Please give your email address."
+msgstr "Proszę podać adres e-mail."
+
+#: class.cscf_contact.php:72
+msgid "Please confirm your email address."
+msgstr "Proszę potwierdzić Twój adres e-mail."
+
+#: class.cscf_contact.php:77 views/contact-form.view.php:32
+msgid "Please give your name."
+msgstr "Proszę podać Twoje imię i nazwisko."
+
+#: class.cscf_contact.php:81
+msgid "Please enter a message."
+msgstr "Proszę wpisać wiadomość."
+
+#: class.cscf_contact.php:85 views/contact-form.view.php:55
+#: views/contact-form.view.php:79
+msgid "Please enter a valid email address."
+msgstr "Proszę wpisać prawidłowy adres e-mail."
+
+#: class.cscf_contact.php:93
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "Przepraszamy kod nie został wprowadzony poprawnie spróbuj ponownie."
+
+#: class.cscf_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "Wyślij wiadomość"
+
+#: class.cscf_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "Dziękuję za Twoją wiadomość, wkrótce skontaktuje się z Państwem."
+
+#: class.cscf_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"Proszę wpisać dane kontaktowe i krótką wiadomość na którą postaram się "
+"odpowiedzieć jak najszybciej."
+
+#: class.cscf_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr "- Zapytanie"
+
+#: class.cscf_settings.php:30
+msgid "Contact Form Settings"
+msgstr "Ustawienia Contact Form"
+
+#: class.cscf_settings.php:30
+msgid "Contact Form"
+msgstr "Contact Form"
+
+#: class.cscf_settings.php:40
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Ustawienia Clean and Simple Contact Form"
+
+#: class.cscf_settings.php:46
+msgid "Donate $10, $20 or $50!"
+msgstr "Wspomóż $10, $20 lub $50!"
+
+#: class.cscf_settings.php:48
+msgid ""
+"If you like this plugin, please donate to support development and "
+"maintenance of:"
+msgstr ""
+"Jeśli podoba Ci się ta wtyczka, prosimy o dotację na wsparcie rozwoju i "
+"konserwacji:"
+
+#: class.cscf_settings.php:48
+msgid "Clean and Simple Contact Form!"
+msgstr "Clean and Simple Contact Form!"
+
+#: class.cscf_settings.php:63
+msgid "You are using version"
+msgstr "Używasz wersji"
+
+#: class.cscf_settings.php:64
+msgid "If you find this plugin useful please consider"
+msgstr "Jeśli uważasz tą wtyczkę za przydatną proszę"
+
+#: class.cscf_settings.php:67
+msgid "leaving a review"
+msgstr "zostaw komentarz"
+
+#: class.cscf_settings.php:69
+msgid "Thank you!"
+msgstr "Dziękujemy"
+
+#: class.cscf_settings.php:74
+msgid ""
+"NOTICE: You have JetPack's Contact Form enabled please deactivate it or use "
+"the shortcode [cscf-contact-form] instead."
+msgstr ""
+"UWAGA: Masz włączony JetPack's Contact Form, proszę wyłączyć go lub "
+"skorzystać z kodu [CSCF-contact-form]."
+
+#: class.cscf_settings.php:75
+msgid "Read More"
+msgstr "Czytaj więcej"
+
+#: class.cscf_settings.php:79
+msgid "Please Note: To add the contact form to your page please add the text"
+msgstr "Uwaga: Aby dodać formularz kontaktowy na stronie, proszę dodać tekst"
+
+#: class.cscf_settings.php:79
+msgid "to your post or page."
+msgstr "do wpisu lub strony."
+
+#: class.cscf_settings.php:98
+msgid "ReCAPTCHA Settings"
+msgstr "Ustawienia ReCAPTCHA"
+
+#: class.cscf_settings.php:106
+msgid "Use reCAPTCHA :"
+msgstr "Użyj reCAPTCHA :"
+
+#: class.cscf_settings.php:112
+msgid "reCAPTCHA Theme :"
+msgstr "Motyw reCAPTCHA:"
+
+#: class.cscf_settings.php:118
+msgid "reCAPTCHA Public Key :"
+msgstr "Klucz publiczny reCAPTCHA :"
+
+#: class.cscf_settings.php:124
+msgid "reCAPTCHA Private Key :"
+msgstr "Klucz prywatny reCAPTCHA :"
+
+#: class.cscf_settings.php:130
+msgid "Message Settings"
+msgstr "Ustawienia wiadomości"
+
+#: class.cscf_settings.php:134
+msgid "Recipient Emails :"
+msgstr "E-maile odbiorcy :"
+
+#: class.cscf_settings.php:140
+msgid "Confirm Email Address :"
+msgstr "Potwierdź adres e-mail :"
+
+#: class.cscf_settings.php:146
+msgid "Override 'From' Address :"
+msgstr "Zastąp adresem 'Od' :"
+
+#: class.cscf_settings.php:152
+msgid "'From' Email Address :"
+msgstr "Adres e-mail 'Od' :"
+
+#: class.cscf_settings.php:158
+msgid "Email Subject :"
+msgstr "Temat wiadomości :"
+
+#: class.cscf_settings.php:164
+msgid "Message :"
+msgstr "Wiadomość :"
+
+#: class.cscf_settings.php:170
+msgid "Message Sent Heading :"
+msgstr "Nagłówek wysłanej wiadomości :"
+
+#: class.cscf_settings.php:176
+msgid "Message Sent Content :"
+msgstr "Treść wysłanej wiadomości :"
+
+#: class.cscf_settings.php:182
+msgid "Styling and Validation"
+msgstr "Styl i Walidacja"
+
+#: class.cscf_settings.php:186
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr "Użyj styl domyślnej wtyczki (odznacz, aby użyć własnych styli motywu)"
+
+#: class.cscf_settings.php:192
+msgid "Use client side validation (AJAX) :"
+msgstr "Użyj weryfikacji danych klienta (AJAX) :"
+
+#: class.cscf_settings.php:262
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Wpisz poniżej Twoje ustawienia reCAPTCHA :"
+
+#: class.cscf_settings.php:263
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "Aby używać reCAPTCHA musisz mieć klucz API z"
+
+#: class.cscf_settings.php:268
+msgid "Enter your message settings below :"
+msgstr "Wpisz Twoje ustawienia wiadomości poniżej :"
+
+#: class.cscf_settings.php:342
+msgid "Red"
+msgstr "Czerwony"
+
+#: class.cscf_settings.php:343
+msgid "White"
+msgstr "Biały"
+
+#: class.cscf_settings.php:344
+msgid "Blackglass"
+msgstr "Czarne szkło"
+
+#: class.cscf_settings.php:345
+msgid "Clean"
+msgstr "Czysty"
+
+#: class.view.php:26
+msgid "View "
+msgstr "Pokaż"
+
+#: views/contact-form.view.php:25
+msgid "Name:"
+msgstr "Imię i Nazwisko:"
+
+#: views/contact-form.view.php:35
+msgid "Your Name"
+msgstr "Wpisz Twoje imię i nazwisko"
+
+#: views/contact-form.view.php:46
+msgid "Email Address:"
+msgstr "Adres e-mail:"
+
+#: views/contact-form.view.php:58
+msgid "Your Email Address"
+msgstr "Twój adres e-mail"
+
+#: views/contact-form.view.php:69
+msgid "Confirm Email Address:"
+msgstr "Potwierdź adres e-mail:"
+
+#: views/contact-form.view.php:78 views/contact-form.view.php:80
+msgid "Please enter the same email address again."
+msgstr "Proszę ponownie wpisać ten sam adres e-mail."
+
+#: views/contact-form.view.php:83
+msgid "Confirm Your Email Address"
+msgstr "Potwierdź Twój adres e-mail"
+
+#: views/contact-form.view.php:95
+msgid "Message:"
+msgstr "Wiadomość:"
+
+#: views/contact-form.view.php:102
+msgid "Please give a message."
+msgstr "Proszę wpisać wiadomość."
+
+#: views/contact-form.view.php:104
+msgid "Your Message"
+msgstr "Twoja wiadomość"
+
+#: views/contact-form.view.php:126
+msgid "Send Message"
+msgstr "Wyślij wiadomość"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Przepraszamy wystąpił problem i wiadomość nie została wysłana."

@@ -1,0 +1,275 @@
+# Copyright (C) 2013 Clean and Simple Contact Form
+# This file is distributed under the same license as the Clean and Simple Contact Form package.
+# Marko Punnar <dev@aretaja.org>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form 4.1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/clean-and-simple-contact-form-"
+"by-meg-nicholas\n"
+"POT-Creation-Date: 2013-09-02 14:21:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-09-14 16:06-0000\n"
+"Last-Translator: \n"
+"Language-Team: Estonian <>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: et_EE\n"
+"X-Source-Language: C\n"
+"Language: et\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: class.cscf.php:106
+msgid "Settings"
+msgstr "Seaded"
+
+#: class.cscf_contact.php:54
+msgid "Sorry the email addresses do not match."
+msgstr "Meiliaadress ei sobi."
+
+#: class.cscf_contact.php:58 views/contact-form.view.php:29
+msgid "Please give your email address."
+msgstr "Sisesta oma e-maili aadress."
+
+#: class.cscf_contact.php:62
+msgid "Please confirm your email address."
+msgstr "Kinnita oma e-maili aadress."
+
+#: class.cscf_contact.php:66 views/contact-form.view.php:62
+msgid "Please give your name."
+msgstr "Sisesta oma nimi."
+
+#: class.cscf_contact.php:70
+msgid "Please enter a message."
+msgstr "Sisesta sõnum."
+
+#: class.cscf_contact.php:74 views/contact-form.view.php:30
+#: views/contact-form.view.php:47
+msgid "Please enter a valid email address."
+msgstr "Sisesta toimiv e-maili aadress."
+
+#: class.cscf_contact.php:82
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "Kontrollkood polnud õige, proovi uuesti."
+
+#: class.cscf_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "Sõnum saadetud"
+
+#: class.cscf_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "Täname sõnumi eest. Teiega võetakse esimesel võimalusel ühendust."
+
+#: class.cscf_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"Sisesta allpool info endast ja lühike sõnum. Püüame vastata esimesel "
+"võimalusel."
+
+#: class.cscf_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr " - Veebivorm"
+
+#: class.cscf_settings.php:41
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Clean and Simple Contact Form seaded"
+
+#: class.cscf_settings.php:43
+msgid "You are using version"
+msgstr "Kasutad versiooni"
+
+#: class.cscf_settings.php:44
+msgid "If you find this plugin useful please consider"
+msgstr "Kui leiad, et plugin on kasulik"
+
+#: class.cscf_settings.php:47
+msgid "leaving a review"
+msgstr "kirjuta ka ülevaade"
+
+#: class.cscf_settings.php:49
+msgid "Thank you!"
+msgstr "Tänan!"
+
+#: class.cscf_settings.php:54
+msgid ""
+"NOTICE: You have JetPack's Contact Form enabled please deactivate it or use "
+"the shortcode [cscf-contact-form] instead."
+msgstr ""
+"Märkus: Sul on JetPack's Contact Form lubatud. Palun lülita see välja või "
+"kasuta lühikäsku [cscf-contact-form] selle asemel."
+
+#: class.cscf_settings.php:55
+msgid "Read More"
+msgstr "Loe rohkem"
+
+#: class.cscf_settings.php:87
+msgid "ReCAPTCHA Settings"
+msgstr "ReCAPTCHA seaded"
+
+#: class.cscf_settings.php:95
+msgid "Use reCAPTCHA :"
+msgstr "Kasuta reCAPTCHA-t :"
+
+#: class.cscf_settings.php:101
+msgid "reCAPTCHA Theme :"
+msgstr "reCAPTCHA teema :"
+
+#: class.cscf_settings.php:107
+msgid "reCAPTCHA Public Key :"
+msgstr "reCAPTCHA avalik võti :"
+
+#: class.cscf_settings.php:113
+msgid "reCAPTCHA Private Key :"
+msgstr "reCAPTCHA privaatvõti :"
+
+#: class.cscf_settings.php:119
+msgid "Message Settings"
+msgstr "Sõnumi seaded"
+
+#: class.cscf_settings.php:123
+msgid "Recipient Email :"
+msgstr "Saaja e-mail :"
+
+#: class.cscf_settings.php:129
+msgid "Override 'From' Address :"
+msgstr "Kirjuta saatja väli üle :"
+
+#: class.cscf_settings.php:135
+msgid "'From' Email Address :"
+msgstr "Saatja e-mail :"
+
+#: class.cscf_settings.php:141
+msgid "Email Subject :"
+msgstr "Kirja pealkiri :"
+
+#: class.cscf_settings.php:147
+msgid "Message :"
+msgstr "Sõnum :"
+
+#: class.cscf_settings.php:153
+msgid "Message Sent Heading :"
+msgstr "\"Saadetu\" teavituse pealkiri :"
+
+#: class.cscf_settings.php:159
+msgid "Message Sent Content :"
+msgstr "\"Saadetud\" teavitus :"
+
+#: class.cscf_settings.php:165
+msgid "Styling and Validation"
+msgstr "Kujundus ja valideerimine"
+
+#: class.cscf_settings.php:169
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+"Kasuta plugina vaikimisi stiili (võta linnuke ära, kui soovid kasutada oma "
+"teema stiili) :"
+
+#: class.cscf_settings.php:175
+msgid "Use client side validation (AJAX) :"
+msgstr "Kasuta kliendipoolset valideerimist (AJAX) :"
+
+#: class.cscf_settings.php:262
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Sisesta allpool reCAPTCHA seadistused :"
+
+#: class.cscf_settings.php:263
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "reCAPTCHA kasutamiseks pead hankima omale API võtme"
+
+#: class.cscf_settings.php:268
+msgid "Enter your message settings below :"
+msgstr "Sisesta allpool sõnumi seadistused :"
+
+#: class.cscf_settings.php:328
+msgid "Red"
+msgstr "Punane"
+
+#: class.cscf_settings.php:329
+msgid "White"
+msgstr "Valge"
+
+#: class.cscf_settings.php:330
+msgid "Blackglass"
+msgstr "Blackglass"
+
+#: class.cscf_settings.php:331
+msgid "Clean"
+msgstr "Puhas"
+
+#: views/contact-form.view.php:24
+msgid "Email Address:"
+msgstr "E-maili aadress:"
+
+#: views/contact-form.view.php:33
+msgid "Your Email Address"
+msgstr "Sinu e-maili aadress"
+
+#: views/contact-form.view.php:40
+msgid "Confirm Email Address:"
+msgstr "Kinnita e-maili aadress:"
+
+#: views/contact-form.view.php:46 views/contact-form.view.php:48
+msgid "Please enter the same email address again."
+msgstr "Sisesta sama meiliaadress uuesti."
+
+#: views/contact-form.view.php:51
+msgid "Confirm Your Email Address"
+msgstr "Kinnita oma e-maili aadress"
+
+#: views/contact-form.view.php:58
+msgid "Name:"
+msgstr "Nimi:"
+
+#: views/contact-form.view.php:65
+msgid "Your Name"
+msgstr "Sinu nimi"
+
+#: views/contact-form.view.php:72
+msgid "Message:"
+msgstr "Sõnum:"
+
+#: views/contact-form.view.php:76
+msgid "Please give a message."
+msgstr "Sisesta sõnum."
+
+#: views/contact-form.view.php:78
+msgid "Your Message"
+msgstr "Sinu sõnum"
+
+#: views/contact-form.view.php:101
+msgid "Send Message"
+msgstr "Saada sõnum"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Kahjuks tekkis mingi probleem ja sõnumit ei saadetud."
+
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr "Clean and Simple Contact Form"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+"Puhas ja lihtne kontaktivorm koos \"Google reCAPTCHA\"  ja \"Twitter "
+"Bootstrap\" koodistikuga."
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr "Meghan Nicholas"
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr "http://www.megnicholas.co.uk"

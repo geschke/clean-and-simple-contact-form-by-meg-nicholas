@@ -1,0 +1,262 @@
+# Copyright (C) 2013 Clean and Simple Contact Form
+# This file is distributed under the same license as the Clean and Simple Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/clean-and-simple-contact-"
+"form-by-meg-nicholas/\n"
+"POT-Creation-Date: 2013-06-20 08:37:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-07-08 23:16+0100\n"
+"Last-Translator: Mike Larsen <mike@hockeycorner.dk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: class.cscf.php:102
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: class.cscf_contact.php:53
+msgid "Sorry the email addresses do not match."
+msgstr "Beklager, men mail-adresserne er ikke ens."
+
+#: class.cscf_contact.php:57 views/contact-form-with-recaptcha.view.php:33
+#: views/contact-form.view.php:14
+msgid "Please give your email address."
+msgstr "Skriv din mail-adresse."
+
+#: class.cscf_contact.php:61
+msgid "Please confirm your email address."
+msgstr "Bekræft venligst din mail-adresse."
+
+#: class.cscf_contact.php:65 views/contact-form-with-recaptcha.view.php:53
+#: views/contact-form.view.php:34
+msgid "Please give your name."
+msgstr "Skriv dit navn."
+
+#: class.cscf_contact.php:69
+msgid "Please enter a message."
+msgstr "Skriv besked."
+
+#: class.cscf_contact.php:73 views/contact-form-with-recaptcha.view.php:33
+#: views/contact-form.view.php:14
+msgid "Please enter a valid email address."
+msgstr "Skriv en gyldig mail-adresse."
+
+#: class.cscf_contact.php:81
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "Beklager, men koden var forkert. Prøv igen."
+
+#: class.cscf_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "Besked sendt"
+
+#: class.cscf_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "Tak for din meddelelse. Vi vender tilbage hurtigt muligt."
+
+#: class.cscf_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"Udfyld formularen med en kort besked, og vi vender tilbage hurtigst muligt."
+
+#: class.cscf_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr "Kontakt formular"
+
+#: class.cscf_settings.php:41
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Indstillinger for Clean and Simple Contact Form"
+
+#: class.cscf_settings.php:43
+msgid "You are using version"
+msgstr "Du bruger version"
+
+#: class.cscf_settings.php:44
+msgid "If you find this plugin useful please consider"
+msgstr "Hvis du finder dette plugin nyttigt, overvej venligst at"
+
+#: class.cscf_settings.php:47
+msgid "leaving a review"
+msgstr "give en bedømmelse"
+
+#: class.cscf_settings.php:49
+msgid "Thank you!"
+msgstr "På forhånd tak!"
+
+#: class.cscf_settings.php:68
+msgid "ReCAPTCHA Settings"
+msgstr "Indstillinger for ReCAPTCHA:"
+
+#: class.cscf_settings.php:76
+msgid "Use reCAPTCHA :"
+msgstr "Brug reCAPTCHA:"
+
+#: class.cscf_settings.php:82
+msgid "reCAPTCHA Theme :"
+msgstr "reCAPTCHA tema :"
+
+#: class.cscf_settings.php:88
+msgid "reCAPTCHA Public Key :"
+msgstr "reCAPTCHA Public Key :"
+
+#: class.cscf_settings.php:94
+msgid "reCAPTCHA Private Key :"
+msgstr "reCAPTCHA Private Key :"
+
+#: class.cscf_settings.php:100
+msgid "Message Settings"
+msgstr "Indstillinger for mails:"
+
+#: class.cscf_settings.php:104
+msgid "Recipient Email :"
+msgstr "Din email adresse:"
+
+#: class.cscf_settings.php:110
+msgid "Email Subject :"
+msgstr "Tekst i emnefelt:"
+
+#: class.cscf_settings.php:116
+msgid "Message :"
+msgstr "Besked:"
+
+#: class.cscf_settings.php:122
+msgid "Message Sent Heading :"
+msgstr "Overskrift for sendt besked:"
+
+#: class.cscf_settings.php:128
+msgid "Message Sent Content :"
+msgstr "Indhold for sendt besked:"
+
+#: class.cscf_settings.php:134
+msgid "Styling and Validation"
+msgstr "Udseende og validering"
+
+#: class.cscf_settings.php:138
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+"Brug standard temaet for dette plugin (fjern flueben for at bruge dit "
+"standard tema i stedet):"
+
+#: class.cscf_settings.php:144
+msgid "Use client side validation (AJAX) :"
+msgstr "Brug AJAX validering:"
+
+#: class.cscf_settings.php:216
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Udfyld med dine reCAPTCHA indstillinger"
+
+#: class.cscf_settings.php:217
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "For at bruge reCAPTCHA skal du have en API nøgle fra"
+
+#: class.cscf_settings.php:222
+msgid "Enter your message settings below :"
+msgstr "Udfyld med dine indstillinger for mails:"
+
+#: class.cscf_settings.php:274
+msgid "Red"
+msgstr "Rød"
+
+#: class.cscf_settings.php:275
+msgid "White"
+msgstr "Hvid"
+
+#: class.cscf_settings.php:276
+msgid "Blackglass"
+msgstr "Gennemsigtig"
+
+#: class.cscf_settings.php:277
+msgid "Clean"
+msgstr "Ren"
+
+#: views/contact-form-with-recaptcha.view.php:31
+#: views/contact-form.view.php:12
+msgid "Email Address:"
+msgstr "Din mail-adresse:"
+
+#: views/contact-form-with-recaptcha.view.php:33
+#: views/contact-form.view.php:14
+msgid "Your Email Address"
+msgstr "Din mail-adresse"
+
+#: views/contact-form-with-recaptcha.view.php:41
+#: views/contact-form.view.php:22
+msgid "Confirm Email Address:"
+msgstr "Bekræft din mail-adresse:"
+
+#: views/contact-form-with-recaptcha.view.php:43
+#: views/contact-form.view.php:24
+msgid "Please enter the same email address again."
+msgstr "Skriv venligst den samme mail-adresse igen."
+
+#: views/contact-form-with-recaptcha.view.php:43
+#: views/contact-form.view.php:24
+msgid "Confirm Your Email Address"
+msgstr "Bekræft din mail-adresse"
+
+#: views/contact-form-with-recaptcha.view.php:51
+#: views/contact-form.view.php:32
+msgid "Name:"
+msgstr "Dit navn:"
+
+#: views/contact-form-with-recaptcha.view.php:53
+#: views/contact-form.view.php:34
+msgid "Your Name"
+msgstr "Dit navn"
+
+#: views/contact-form-with-recaptcha.view.php:61
+#: views/contact-form.view.php:42
+msgid "Message:"
+msgstr "Din besked:"
+
+#: views/contact-form-with-recaptcha.view.php:63
+#: views/contact-form.view.php:44
+msgid "Please give a message."
+msgstr "Skriv en besked."
+
+#: views/contact-form-with-recaptcha.view.php:63
+#: views/contact-form.view.php:44
+msgid "Your Message"
+msgstr "Din besked"
+
+#: views/contact-form-with-recaptcha.view.php:79
+#: views/contact-form.view.php:51
+msgid "Send Message"
+msgstr "Send besked"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Beklager, men der er sket en fejl, og din besked blev ikke sendt."
+
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr "Clean and Simple Contact Form"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+"En meget simpel kontakt formular med Google reCAPTCHA og Twitter Bootstrap "
+"markering."
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr "Meghan Nicholas"
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr "http://www.megnicholas.co.uk"

@@ -1,0 +1,264 @@
+# Copyright (C) 2013 Clean and Simple Contact Form
+# This file is distributed under the same license as the Clean and Simple Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form 4.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/clean-and-simple-contact-"
+"form-by-meg-nicholas\n"
+"POT-Creation-Date: 2013-06-13 10:12:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-08-06 15:51+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: class.cff.php:90
+msgid "Settings"
+msgstr "Configuració"
+
+#: class.cff_contact.php:55
+msgid "Sorry the email addresses do not match."
+msgstr "Alerta. Les adreces no coincideixen"
+
+#: class.cff_contact.php:59 views/contact-form-with-recaptcha.view.php:29
+#: views/contact-form.view.php:14
+msgid "Please give your email address."
+msgstr "Si us plau, introduïu el vostre correu"
+
+#: class.cff_contact.php:63
+msgid "Please confirm your email address."
+msgstr "Si us plau, confirmeu el vostre correu"
+
+#: class.cff_contact.php:67 views/contact-form-with-recaptcha.view.php:49
+#: views/contact-form.view.php:34
+msgid "Please give your name."
+msgstr "Si us plau, introduïu el vostre nom"
+
+#: class.cff_contact.php:71
+msgid "Please enter a message."
+msgstr "Si us plau, introduïu el vostre comentari"
+
+#: class.cff_contact.php:75 views/contact-form-with-recaptcha.view.php:29
+#: views/contact-form.view.php:14
+msgid "Please enter a valid email address."
+msgstr "Si us plau, introduïu una adreça valida de correu"
+
+#: class.cff_contact.php:83
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "Alerta!. El codi introduit no es correcte"
+
+#: class.cff_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "Comentari enviat"
+
+#: class.cff_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr ""
+"Gràcies per el teu Comentari, ens posarem en contacte el mes aviat possible."
+
+#: class.cff_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"Introdueix les teves dades, un comentari curt i et contestarem el mes aviat "
+"possible."
+
+#: class.cff_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr "- Pregunta Web"
+
+#: class.cff_settings.php:41
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Configuració de Clean and Simple Contact Form"
+
+#: class.cff_settings.php:43
+msgid "You are using version"
+msgstr "Aquesta es la versió"
+
+#: class.cff_settings.php:44
+msgid "If you find this plugin useful please consider"
+msgstr "Si t'es util, si us plau considera"
+
+#: class.cff_settings.php:47
+msgid "leaving a review"
+msgstr "deja un comentari"
+
+#: class.cff_settings.php:49
+msgid "Thank you!"
+msgstr "Moltes Gràcies!"
+
+#: class.cff_settings.php:68
+msgid "ReCAPTCHA Settings"
+msgstr "Configuració ReCAPTCHA "
+
+#: class.cff_settings.php:76
+msgid "Use reCAPTCHA :"
+msgstr "Utilitza ReCAPTCHA :"
+
+#: class.cff_settings.php:82
+msgid "reCAPTCHA Theme :"
+msgstr "Tema reCAPTCHA :"
+
+#: class.cff_settings.php:88
+msgid "reCAPTCHA Public Key :"
+msgstr "Clau Publica reCAPTCHA :"
+
+#: class.cff_settings.php:94
+msgid "reCAPTCHA Private Key :"
+msgstr "Clau Privada reCAPTCHA :"
+
+#: class.cff_settings.php:100
+msgid "Message Settings"
+msgstr "Configuració dels Missatges"
+
+#: class.cff_settings.php:104
+msgid "Recipient Email :"
+msgstr "Adressa de Correu del destinatari:"
+
+#: class.cff_settings.php:110
+msgid "Email Subject :"
+msgstr "Assumpte del correo:"
+
+#: class.cff_settings.php:116
+msgid "Message :"
+msgstr "Comentari:"
+
+#: class.cff_settings.php:122
+msgid "Message Sent Heading :"
+msgstr "Titol de Missatge Enviat:"
+
+#: class.cff_settings.php:128
+msgid "Message Sent Content :"
+msgstr "Contingut de Missatge Enviat:"
+
+#: class.cff_settings.php:134
+msgid "Styling and Validation"
+msgstr "Estils i Validació"
+
+#: class.cff_settings.php:138
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+"Utilitza els estils del plugin por defectet (desmarca para utilitzar el teu "
+"estil) :"
+
+#: class.cff_settings.php:144
+msgid "Use client side validation (AJAX) :"
+msgstr "Utilitza la validació de client (AJAX) :"
+
+#: class.cff_settings.php:216
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Introduíu la teva configuració reCAPTCHA :"
+
+#: class.cff_settings.php:217
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "Per utilitzar reCAPTCHA has de demanar una API key de"
+
+#: class.cff_settings.php:222
+msgid "Enter your message settings below :"
+msgstr "Introdueix la teva configuració del missatge :"
+
+#: class.cff_settings.php:274
+msgid "Red"
+msgstr "Vermell"
+
+#: class.cff_settings.php:275
+msgid "White"
+msgstr "Blanc"
+
+#: class.cff_settings.php:276
+msgid "Blackglass"
+msgstr "Negre Vidre"
+
+#: class.cff_settings.php:277
+msgid "Clean"
+msgstr "Transparent"
+
+#: views/contact-form-with-recaptcha.view.php:27
+#: views/contact-form.view.php:12
+msgid "Email Address:"
+msgstr "Adreça de Correu:"
+
+#: views/contact-form-with-recaptcha.view.php:29
+#: views/contact-form.view.php:14
+msgid "Your Email Address"
+msgstr "La teva Adreça de Correu"
+
+#: views/contact-form-with-recaptcha.view.php:37
+#: views/contact-form.view.php:22
+msgid "Confirm Email Address:"
+msgstr "Confirma l'Adreça de Correu"
+
+#: views/contact-form-with-recaptcha.view.php:39
+#: views/contact-form.view.php:24
+msgid "Please enter the same email address again."
+msgstr "Si us plau repeteix l'Adreça de Correu"
+
+#: views/contact-form-with-recaptcha.view.php:39
+#: views/contact-form.view.php:24
+msgid "Confirm Your Email Address"
+msgstr "Confirma la teva Adreça de Correu"
+
+#: views/contact-form-with-recaptcha.view.php:47
+#: views/contact-form.view.php:32
+msgid "Name:"
+msgstr "Nom:"
+
+#: views/contact-form-with-recaptcha.view.php:49
+#: views/contact-form.view.php:34
+msgid "Your Name"
+msgstr "El teu Nom:"
+
+#: views/contact-form-with-recaptcha.view.php:57
+#: views/contact-form.view.php:42
+msgid "Message:"
+msgstr "Comentari:"
+
+#: views/contact-form-with-recaptcha.view.php:59
+#: views/contact-form.view.php:44
+msgid "Please give a message."
+msgstr "Si us plau, escriu un Comentari"
+
+#: views/contact-form-with-recaptcha.view.php:59
+#: views/contact-form.view.php:44
+msgid "Your Message"
+msgstr "El teu Comentari"
+
+#: views/contact-form-with-recaptcha.view.php:75
+#: views/contact-form.view.php:51
+msgid "Send Message"
+msgstr "Enviar"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Alerta!. Hi ha algun problema, no s'ha enviat el Correu"
+
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr "Clean and Simple Contact Form"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+"Un formulari de contacte net i sencill, amb Google, reCAPTCHA  i Twitter "
+"Bootstrap."
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr "Meghan Nicholas"
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr "http://www.megnicholas.co.uk"

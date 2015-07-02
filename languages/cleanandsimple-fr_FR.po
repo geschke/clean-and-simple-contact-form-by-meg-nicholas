@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form Clean and Simple\n"
+"POT-Creation-Date: 2013-07-06 15:03+0100\n"
+"PO-Revision-Date: 2013-07-06 15:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: Matthieu MARECHAL <contact@matthieu-marechal.fr>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/jocade/Desktop/clean-and-simple-contact-form-"
+"by-meg-nicholas\n"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf.php:102
+msgid "Settings"
+msgstr "Paramètre"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php:53
+msgid "Sorry the email addresses do not match."
+msgstr "Désolé, cet e-mail n'est pas valide."
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php:57
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:27
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:14
+msgid "Please give your email address."
+msgstr "Entrez votre adresse e-mail"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php:61
+msgid "Please confirm your email address."
+msgstr "Confirmez votre adresse e-mail"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php:65
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:47
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:34
+msgid "Please give your name."
+msgstr "Entrez votre nom"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php:69
+msgid "Please enter a message."
+msgstr "Entrez votre message"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php:73
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:27
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:14
+msgid "Please enter a valid email address."
+msgstr "Entrez une adresse e-mail valide"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_contact.php:81
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "Désolé, le code entré n'est pas correct, veuillez recommencer."
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "Message envoyé"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "Merci pour votre message, nous vous répondrons au plus vite."
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"Merci d'entrer vos informations de contact ci-dessous et nous nous "
+"répondrons dès que possible"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr " - Enquête Web"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:41
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Clean and Simple Contact Form Settings"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:43
+msgid "You are using version"
+msgstr "Vous utilisez la version"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:44
+msgid "If you find this plugin useful please consider"
+msgstr "Si vous avez trouvé ce plugin intéressant, "
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:47
+msgid "leaving a review"
+msgstr "donnez votre avis."
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:49
+msgid "Thank you!"
+msgstr "Merci !"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:54
+msgid ""
+"NOTICE: You have JetPack's Contact Form enabled please deactivate it or use "
+"the shortcode [cscf-contact-form] instead."
+msgstr ""
+"NOTE : Vous avez JetPack's Contact Form d'activé. Merci de le désactiver ou "
+"utilisez le code suivant [cscf-contact-form] à la place"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:55
+msgid "Read More"
+msgstr "Lire plus"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:85
+msgid "ReCAPTCHA Settings"
+msgstr "Paramètres ReCAPTCHA"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:93
+msgid "Use reCAPTCHA :"
+msgstr "Utiliser reCAPTCHA :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:99
+msgid "reCAPTCHA Theme :"
+msgstr "Thème reCAPTCHA :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:105
+msgid "reCAPTCHA Public Key :"
+msgstr "reCAPTCHA clé publique :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:111
+msgid "reCAPTCHA Private Key :"
+msgstr "reCAPTCHA clé privée :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:117
+msgid "Message Settings"
+msgstr "Paramètres du message"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:121
+msgid "Recipient Email :"
+msgstr "E-mail du destinataire :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:127
+msgid "Email Subject :"
+msgstr "Sujet de l'e-mail"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:133
+msgid "Message :"
+msgstr "Message :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:139
+msgid "Message Sent Heading :"
+msgstr "En-tête du message envoyé"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:145
+msgid "Message Sent Content :"
+msgstr "Contenu du message envoyé :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:151
+msgid "Styling and Validation"
+msgstr "Style et validation"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:155
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+"Utiliser la feuille de style par défaut du plugin (décocher pour utiliser "
+"votre propre feuille de style)"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:161
+msgid "Use client side validation (AJAX) :"
+msgstr "Utiliser la validation côté client (AJAX) :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:233
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Entrer vos paramètres reCAPTCHA ci-dessous :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:234
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "Pour utiliser reCAPTCHA vous devez obtenir une clé depuis l'API"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:239
+msgid "Enter your message settings below :"
+msgstr "Entrez les paramètres de votre message ci-dessous :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:291
+msgid "Red"
+msgstr "Rouge"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:292
+msgid "White"
+msgstr "Blanc"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:293
+msgid "Blackglass"
+msgstr "Vitre noire"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.cscf_settings.php:294
+msgid "Clean"
+msgstr "Propre"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/class.view.php:26
+msgid "View "
+msgstr "Vue"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:25
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:12
+msgid "Email Address:"
+msgstr "Adresse e-mail :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:27
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:14
+msgid "Your Email Address"
+msgstr "Votre adresse e-mail"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:35
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:22
+msgid "Confirm Email Address:"
+msgstr "Confirmez l'adresse e-mail :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:37
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:24
+msgid "Please enter the same email address again."
+msgstr "Merci d'entrer la même adresse e-mail."
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:37
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:24
+msgid "Confirm Your Email Address"
+msgstr "Confirmez votre adresse e-mail"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:45
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:32
+msgid "Name:"
+msgstr "Nom :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:47
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:34
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:55
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:42
+msgid "Message:"
+msgstr "Message :"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:57
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:44
+msgid "Please give a message."
+msgstr "Merci d'entrer un message"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:57
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:44
+msgid "Your Message"
+msgstr "Votre message"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form-with-recaptcha.view.php:72
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/contact-form.view.php:51
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: /Users/jocade/Desktop/clean-and-simple-contact-form-by-meg-nicholas/views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Désolé, un problème est survenu et votre message n'a pu être envoyé"

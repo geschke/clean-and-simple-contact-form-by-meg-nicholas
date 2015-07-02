@@ -1,0 +1,310 @@
+# Copyright (C) 2014 Clean and Simple Contact Form
+# This file is distributed under the same license as the Clean and Simple Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form 4.4.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/clean-and-simple-contact-form-"
+"by-meg-nicholas\n"
+"POT-Creation-Date: 2014-09-24 08:46:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class.cscf.php:151
+msgid "Settings"
+msgstr ""
+
+#: class.cscf_contact.php:66
+msgid "Sorry the email addresses do not match."
+msgstr ""
+
+#: class.cscf_contact.php:71 views/contact-form.view.php:54
+msgid "Please give your email address."
+msgstr ""
+
+#: class.cscf_contact.php:75
+msgid "Please confirm your email address."
+msgstr ""
+
+#: class.cscf_contact.php:80 views/contact-form.view.php:32
+msgid "Please give your name."
+msgstr ""
+
+#: class.cscf_contact.php:84
+msgid "Please enter a message."
+msgstr ""
+
+#: class.cscf_contact.php:88 views/contact-form.view.php:55
+#: views/contact-form.view.php:79
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: class.cscf_contact.php:95
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr ""
+
+#: class.cscf_contact.php:157
+msgid "Here is a copy of your message :"
+msgstr ""
+
+#: class.cscf_pluginsettings.php:44
+msgid "Message Sent"
+msgstr ""
+
+#: class.cscf_pluginsettings.php:52
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr ""
+
+#: class.cscf_pluginsettings.php:60
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+
+#: class.cscf_pluginsettings.php:93
+msgid " -  Web Enquiry"
+msgstr ""
+
+#: class.cscf_settings.php:30
+msgid "Contact Form Settings"
+msgstr ""
+
+#: class.cscf_settings.php:30
+msgid "Contact Form"
+msgstr ""
+
+#: class.cscf_settings.php:41
+msgid "Clean and Simple Contact Form Settings"
+msgstr ""
+
+#: class.cscf_settings.php:47
+msgid "Donate $10, $20 or $50!"
+msgstr ""
+
+#: class.cscf_settings.php:50
+msgid ""
+"If you like this plugin, please donate to support development and "
+"maintenance of:"
+msgstr ""
+
+#: class.cscf_settings.php:52
+msgid "Clean and Simple Contact Form!"
+msgstr ""
+
+#: class.cscf_settings.php:72
+msgid "You are using version"
+msgstr ""
+
+#: class.cscf_settings.php:74
+msgid "If you find this plugin useful please consider"
+msgstr ""
+
+#: class.cscf_settings.php:77
+msgid "leaving a review"
+msgstr ""
+
+#: class.cscf_settings.php:79
+msgid "Thank you!"
+msgstr ""
+
+#: class.cscf_settings.php:84
+msgid ""
+"NOTICE: You have JetPack's Contact Form enabled please deactivate it or use "
+"the shortcode [cscf-contact-form] instead."
+msgstr ""
+
+#: class.cscf_settings.php:86
+msgid "Read More"
+msgstr ""
+
+#: class.cscf_settings.php:90
+msgid "Please Note: To add the contact form to your page please add the text"
+msgstr ""
+
+#: class.cscf_settings.php:91
+msgid "to your post or page."
+msgstr ""
+
+#: class.cscf_settings.php:111
+msgid "ReCAPTCHA Settings"
+msgstr ""
+
+#: class.cscf_settings.php:119
+msgid "Use reCAPTCHA :"
+msgstr ""
+
+#: class.cscf_settings.php:125
+msgid "reCAPTCHA Theme :"
+msgstr ""
+
+#: class.cscf_settings.php:131
+msgid "reCAPTCHA Public Key :"
+msgstr ""
+
+#: class.cscf_settings.php:137
+msgid "reCAPTCHA Private Key :"
+msgstr ""
+
+#: class.cscf_settings.php:143
+msgid "Message Settings"
+msgstr ""
+
+#: class.cscf_settings.php:147
+msgid "Recipient Emails :"
+msgstr ""
+
+#: class.cscf_settings.php:153
+msgid "Confirm Email Address :"
+msgstr ""
+
+#: class.cscf_settings.php:159
+msgid "*New*"
+msgstr ""
+
+#: class.cscf_settings.php:159
+msgid "Allow users to email themselves a copy :"
+msgstr ""
+
+#: class.cscf_settings.php:165
+msgid "Override 'From' Address :"
+msgstr ""
+
+#: class.cscf_settings.php:171
+msgid "'From' Email Address :"
+msgstr ""
+
+#: class.cscf_settings.php:177
+msgid "Email Subject :"
+msgstr ""
+
+#: class.cscf_settings.php:183
+msgid "Message :"
+msgstr ""
+
+#: class.cscf_settings.php:189
+msgid "Message Sent Heading :"
+msgstr ""
+
+#: class.cscf_settings.php:195
+msgid "Message Sent Content :"
+msgstr ""
+
+#: class.cscf_settings.php:201
+msgid "Styling and Validation"
+msgstr ""
+
+#: class.cscf_settings.php:205
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+
+#: class.cscf_settings.php:211
+msgid "Use client side validation (AJAX) :"
+msgstr ""
+
+#: class.cscf_settings.php:283
+msgid "Enter your reCAPTCHA settings below :"
+msgstr ""
+
+#: class.cscf_settings.php:284
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr ""
+
+#: class.cscf_settings.php:290
+msgid "Enter your message settings below :"
+msgstr ""
+
+#: class.cscf_settings.php:392
+msgid "Red"
+msgstr ""
+
+#: class.cscf_settings.php:394
+msgid "White"
+msgstr ""
+
+#: class.cscf_settings.php:396
+msgid "Blackglass"
+msgstr ""
+
+#: class.cscf_settings.php:398
+msgid "Clean"
+msgstr ""
+
+#: views/contact-form.view.php:25
+msgid "Name:"
+msgstr ""
+
+#: views/contact-form.view.php:35
+msgid "Your Name"
+msgstr ""
+
+#: views/contact-form.view.php:46
+msgid "Email Address:"
+msgstr ""
+
+#: views/contact-form.view.php:58
+msgid "Your Email Address"
+msgstr ""
+
+#: views/contact-form.view.php:69
+msgid "Confirm Email Address:"
+msgstr ""
+
+#: views/contact-form.view.php:78 views/contact-form.view.php:80
+msgid "Please enter the same email address again."
+msgstr ""
+
+#: views/contact-form.view.php:83
+msgid "Confirm Your Email Address"
+msgstr ""
+
+#: views/contact-form.view.php:95
+msgid "Message:"
+msgstr ""
+
+#: views/contact-form.view.php:102
+msgid "Please give a message."
+msgstr ""
+
+#: views/contact-form.view.php:104
+msgid "Your Message"
+msgstr ""
+
+#: views/contact-form.view.php:114
+msgid "Send me a copy:"
+msgstr ""
+
+#: views/contact-form.view.php:142
+msgid "Send Message"
+msgstr ""
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr ""

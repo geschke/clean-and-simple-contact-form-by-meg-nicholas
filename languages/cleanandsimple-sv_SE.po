@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: clean-and-simple-contact-form-by-meg-nicholas.4.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/clean-and-simple-contact-"
+"form-by-meg-nicholas\n"
+"POT-Creation-Date: 2013-06-13 10:12:32+00:00\n"
+"PO-Revision-Date: 2013-07-03 10:48+0100\n"
+"Last-Translator: hassesetter <hasse@setter-co.se>\n"
+"Language-Team: faktorzwei.net <faktorzwei.net@gmail.com>\n"
+"Language: de_DE informal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+
+#: class.cff.php:90
+msgid "Settings"
+msgstr "Inställningar"
+
+#: class.cff_contact.php:55
+msgid "Sorry the email addresses do not match."
+msgstr "Tyvärr är epostadressen felaktig."
+
+#: class.cff_contact.php:59 views/contact-form-with-recaptcha.view.php:29
+#: views/contact-form.view.php:14
+msgid "Please give your email address."
+msgstr "Fyll i epostadressen."
+
+#: class.cff_contact.php:63
+msgid "Please confirm your email address."
+msgstr "Bekräfta epostadressen."
+
+#: class.cff_contact.php:67 views/contact-form-with-recaptcha.view.php:49
+#: views/contact-form.view.php:34
+msgid "Please give your name."
+msgstr "Fyll i ditt namn."
+
+#: class.cff_contact.php:71
+msgid "Please enter a message."
+msgstr "Skriv ett meddelande."
+
+#: class.cff_contact.php:75 views/contact-form-with-recaptcha.view.php:29
+#: views/contact-form.view.php:14
+msgid "Please enter a valid email address."
+msgstr "Fyll i en giltig epostadress."
+
+#: class.cff_contact.php:83
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "Tyvärr har du fyllt i fel kod, prova igen."
+
+#: class.cff_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "Meddelandet är skickat."
+
+#: class.cff_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "Tack för ditt meddelande, vi kontaktar er så snart som möjligt."
+
+#: class.cff_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"Fyll i dina kontaktuppgifter och ett kort meddelande så kommer vi svara så "
+"snart som möjligt."
+
+#: class.cff_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr " - Webförfrågan"
+
+#: class.cff_settings.php:41
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Inställningar för Clean and Simple Kontaktformulär"
+
+#: class.cff_settings.php:43
+msgid "You are using version"
+msgstr "Du använder version: "
+
+#: class.cff_settings.php:44
+msgid "If you find this plugin useful please consider"
+msgstr "Om du gillar vår plugin,"
+
+#: class.cff_settings.php:47
+msgid "leaving a review"
+msgstr "skriv gärna en recension."
+
+#: class.cff_settings.php:49
+msgid "Thank you!"
+msgstr "Tack på förhand!"
+
+#: class.cff_settings.php:68
+msgid "ReCAPTCHA Settings"
+msgstr "ReCAPTCHA inställningar"
+
+#: class.cff_settings.php:76
+msgid "Use reCAPTCHA :"
+msgstr "Använd reCAPTCHA :"
+
+#: class.cff_settings.php:82
+msgid "reCAPTCHA Theme :"
+msgstr "reCAPTCHA Tema :"
+
+#: class.cff_settings.php:88
+msgid "reCAPTCHA Public Key :"
+msgstr "reCAPTCHA Public Key :"
+
+#: class.cff_settings.php:94
+msgid "reCAPTCHA Private Key :"
+msgstr "reCAPTCHA Private Key :"
+
+#: class.cff_settings.php:100
+msgid "Message Settings"
+msgstr "Meddelande inställningar"
+
+#: class.cff_settings.php:104
+msgid "Recipient Email :"
+msgstr "Mottagande epostadress:"
+
+#: class.cff_settings.php:110
+msgid "Email Subject :"
+msgstr "Epost ämne:"
+
+#: class.cff_settings.php:116
+msgid "Message :"
+msgstr "Meddelande:"
+
+#: class.cff_settings.php:122
+msgid "Message Sent Heading :"
+msgstr "Meddelande skickat, rubrik"
+
+#: class.cff_settings.php:128
+msgid "Message Sent Content :"
+msgstr "Meddelande skickat, innehåll:"
+
+#: class.cff_settings.php:134
+msgid "Styling and Validation"
+msgstr "Utseende och validering."
+
+#: class.cff_settings.php:138
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+"Använd förvald stilmall i vår plugin (klicka bort om du vill använda "
+"stilmallen i ditt tema istället):"
+
+#: class.cff_settings.php:144
+msgid "Use client side validation (AJAX) :"
+msgstr "Använd klientvalidering (AJAX):"
+
+#: class.cff_settings.php:216
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Fyll i dina reCAPTCHA inställningar nedan: "
+
+#: class.cff_settings.php:217
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "För att använda reCAPTCHA måste du skaffa en API-nyckel från "
+
+#: class.cff_settings.php:222
+msgid "Enter your message settings below :"
+msgstr "Fyll i inställningar för ditt meddelande nedan:"
+
+#: class.cff_settings.php:274
+msgid "Red"
+msgstr "Röd"
+
+#: class.cff_settings.php:275
+msgid "White"
+msgstr "Vit"
+
+#: class.cff_settings.php:276
+msgid "Blackglass"
+msgstr "Svart(glas)"
+
+#: class.cff_settings.php:277
+msgid "Clean"
+msgstr "Enkelt"
+
+#: views/contact-form-with-recaptcha.view.php:27
+#: views/contact-form.view.php:12
+msgid "Email Address:"
+msgstr "Epostadress:"
+
+#: views/contact-form-with-recaptcha.view.php:29
+#: views/contact-form.view.php:14
+msgid "Your Email Address"
+msgstr "Din epostadress:"
+
+#: views/contact-form-with-recaptcha.view.php:37
+#: views/contact-form.view.php:22
+msgid "Confirm Email Address:"
+msgstr "Bekräfta epostadress:"
+
+#: views/contact-form-with-recaptcha.view.php:39
+#: views/contact-form.view.php:24
+msgid "Please enter the same email address again."
+msgstr "Skriv din epostadress en gång till."
+
+#: views/contact-form-with-recaptcha.view.php:39
+#: views/contact-form.view.php:24
+msgid "Confirm Your Email Address"
+msgstr "Bekräfta din epostadress."
+
+#: views/contact-form-with-recaptcha.view.php:47
+#: views/contact-form.view.php:32
+msgid "Name:"
+msgstr "Namn:"
+
+#: views/contact-form-with-recaptcha.view.php:49
+#: views/contact-form.view.php:34
+msgid "Your Name"
+msgstr "Ditt namn:"
+
+#: views/contact-form-with-recaptcha.view.php:57
+#: views/contact-form.view.php:42
+msgid "Message:"
+msgstr "Meddelande:"
+
+#: views/contact-form-with-recaptcha.view.php:59
+#: views/contact-form.view.php:44
+msgid "Please give a message."
+msgstr "Skriv ett meddelande."
+
+#: views/contact-form-with-recaptcha.view.php:59
+#: views/contact-form.view.php:44
+msgid "Your Message"
+msgstr "Ditt meddelande:"
+
+#: views/contact-form-with-recaptcha.view.php:75
+#: views/contact-form.view.php:51
+msgid "Send Message"
+msgstr "Skicka meddelande"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Tyvärr, något är fel och ditt meddelande har inte skickats."
+
+# Plugin Name des plugin/theme
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr "Clean and Simple Kontaktformulär"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+
+# Beschreibung des plugin/theme
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+"Ett enkelt kontaktformulär med Google reCAPTCHA och Twitter Bootstrap kod."
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr "Meghan Nicholas"
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr "http://www.megnicholas.co.uk"

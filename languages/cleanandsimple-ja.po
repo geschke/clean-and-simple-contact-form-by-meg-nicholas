@@ -1,0 +1,261 @@
+# Copyright (C) 2013 Clean and Simple Contact Form
+# This file is distributed under the same license as the Clean and Simple Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/clean-and-simple-contact-"
+"form-by-meg-nicholas/\n"
+"POT-Creation-Date: 2013-06-20 08:37:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-08-26 19:00+0900\n"
+"Last-Translator: \n"
+"Language-Team: Nikhil Khullar <nikhil.khullar786@gmail.com>\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: Japanese\n"
+
+#: class.cscf.php:102
+msgid "Settings"
+msgstr "セッティング"
+
+#: class.cscf_contact.php:53
+msgid "Sorry the email addresses do not match."
+msgstr "メールアドレスが一致しません。"
+
+#: class.cscf_contact.php:57 views/contact-form-with-recaptcha.view.php:33
+#: views/contact-form.view.php:14
+msgid "Please give your email address."
+msgstr "メールアドレスをお願いします。"
+
+#: class.cscf_contact.php:61
+msgid "Please confirm your email address."
+msgstr "メールアドレスを確認してください。"
+
+#: class.cscf_contact.php:65 views/contact-form-with-recaptcha.view.php:53
+#: views/contact-form.view.php:34
+msgid "Please give your name."
+msgstr "お名前をお願いします。"
+
+#: class.cscf_contact.php:69
+msgid "Please enter a message."
+msgstr "メッセージをお願いします。"
+
+#: class.cscf_contact.php:73 views/contact-form-with-recaptcha.view.php:33
+#: views/contact-form.view.php:14
+msgid "Please enter a valid email address."
+msgstr "有効なメールアドレスを書いてください。"
+
+#: class.cscf_contact.php:81
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "コードが正しくありません。もう一度お試しください。"
+
+#: class.cscf_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "メッセージが送信されました。"
+
+#: class.cscf_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "ありがとうございました。我々は非常にすぐに連絡させていただきます。"
+
+#: class.cscf_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"連絡先とメッセージをお願いします。我々は非常にすぐに連絡させていただきます。"
+
+#: class.cscf_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr "ー　ウェブ問い合わせ"
+
+#: class.cscf_settings.php:41
+msgid "Clean and Simple Contact Form Settings"
+msgstr "セッティング"
+
+#: class.cscf_settings.php:43
+msgid "You are using version"
+msgstr "このバージョンは"
+
+#: class.cscf_settings.php:44
+msgid "If you find this plugin useful please consider"
+msgstr "よかったら、"
+
+#: class.cscf_settings.php:47
+msgid "leaving a review"
+msgstr "レビューを残してください。"
+
+#: class.cscf_settings.php:49
+msgid "Thank you!"
+msgstr "ありがとうございます。"
+
+#: class.cscf_settings.php:68
+msgid "ReCAPTCHA Settings"
+msgstr "「reCAPTCHA」セッティング"
+
+#: class.cscf_settings.php:76
+msgid "Use reCAPTCHA :"
+msgstr "「reCAPTCHA」を着かす :"
+
+#: class.cscf_settings.php:82
+msgid "reCAPTCHA Theme :"
+msgstr "「reCAPTCHA」のテーマ :"
+
+#: class.cscf_settings.php:88
+msgid "reCAPTCHA Public Key :"
+msgstr "「reCAPTCHA」の公開鍵 :"
+
+#: class.cscf_settings.php:94
+msgid "reCAPTCHA Private Key :"
+msgstr "「reCAPTCHA」の秘密鍵 :"
+
+#: class.cscf_settings.php:100
+msgid "Message Settings"
+msgstr "メッセージのセッティング"
+
+#: class.cscf_settings.php:104
+msgid "Recipient Email :"
+msgstr "受信者のメールアドレス :"
+
+#: class.cscf_settings.php:110
+msgid "Email Subject :"
+msgstr "メールの件名 :"
+
+#: class.cscf_settings.php:116
+msgid "Message :"
+msgstr "メッセージ :"
+
+#: class.cscf_settings.php:122
+msgid "Message Sent Heading :"
+msgstr "メッセージが送信されるのヘディング :"
+
+#: class.cscf_settings.php:128
+msgid "Message Sent Content :"
+msgstr "メッセージが送信されるのコンテンツ :"
+
+#: class.cscf_settings.php:134
+msgid "Styling and Validation"
+msgstr "スタイリングと検証"
+
+#: class.cscf_settings.php:138
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr "プラグインのデフォルトのスタイルシート :"
+
+#: class.cscf_settings.php:144
+msgid "Use client side validation (AJAX) :"
+msgstr "クライアント側の検証「AJAX」を使ってください。"
+
+#: class.cscf_settings.php:216
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "「reCAPTCHA」セッティングをお願いします。"
+
+#: class.cscf_settings.php:217
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "「reCAPTCHA」を使う前に「API key」を取得してください"
+
+#: class.cscf_settings.php:222
+msgid "Enter your message settings below :"
+msgstr "メッセージのセッティングを教えてください :"
+
+#: class.cscf_settings.php:274
+msgid "Red"
+msgstr "赤"
+
+#: class.cscf_settings.php:275
+msgid "White"
+msgstr "白"
+
+#: class.cscf_settings.php:276
+msgid "Blackglass"
+msgstr "黒ガラス"
+
+#: class.cscf_settings.php:277
+msgid "Clean"
+msgstr "クリーン"
+
+#: views/contact-form-with-recaptcha.view.php:31
+#: views/contact-form.view.php:12
+msgid "Email Address:"
+msgstr "メールアドレス :  "
+
+#: views/contact-form-with-recaptcha.view.php:33
+#: views/contact-form.view.php:14
+msgid "Your Email Address"
+msgstr "あなたのメールアドレス"
+
+#: views/contact-form-with-recaptcha.view.php:41
+#: views/contact-form.view.php:22
+msgid "Confirm Email Address:"
+msgstr "メールアドレスの確認:"
+
+#: views/contact-form-with-recaptcha.view.php:43
+#: views/contact-form.view.php:24
+msgid "Please enter the same email address again."
+msgstr "また、同じメールアドレスを入ってください。"
+
+#: views/contact-form-with-recaptcha.view.php:43
+#: views/contact-form.view.php:24
+msgid "Confirm Your Email Address"
+msgstr "メールアドレスを確認してください。"
+
+#: views/contact-form-with-recaptcha.view.php:51
+#: views/contact-form.view.php:32
+msgid "Name:"
+msgstr "名前 :"
+
+#: views/contact-form-with-recaptcha.view.php:53
+#: views/contact-form.view.php:34
+msgid "Your Name"
+msgstr "お名前"
+
+#: views/contact-form-with-recaptcha.view.php:61
+#: views/contact-form.view.php:42
+msgid "Message:"
+msgstr "メッセージ :"
+
+#: views/contact-form-with-recaptcha.view.php:63
+#: views/contact-form.view.php:44
+msgid "Please give a message."
+msgstr "メッセージをお願いします。"
+
+#: views/contact-form-with-recaptcha.view.php:63
+#: views/contact-form.view.php:44
+msgid "Your Message"
+msgstr "あなたのメッセージ"
+
+#: views/contact-form-with-recaptcha.view.php:79
+#: views/contact-form.view.php:51
+msgid "Send Message"
+msgstr "送信"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "ごめんなさい、メッセージは送信されませんでした。"
+
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr "「Clean and Simple」お問い合わせフォーム"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+"「Google reCAPTCHA」と「Twitter Bootstrap」を使っている清楚なお問い合わせ"
+"フォーム。"
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr "http://www.megnicholas.co.uk"
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr "http://www.megnicholas.co.uk"

@@ -1,0 +1,301 @@
+# Copyright (C) 2013 Clean and Simple Contact Form
+# This file is distributed under the same license as the Clean and Simple Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form 4.1.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/clean-and-simple-contact-form-"
+"by-meg-nicholas\n"
+"POT-Creation-Date: 2013-09-08 21:03:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-09-29 16:35-0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: class.cscf.php:106
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: class.cscf_contact.php:54
+msgid "Sorry the email addresses do not match."
+msgstr "Τα e-mail δεν μοιάζουν."
+
+#: class.cscf_contact.php:58 views/contact-form.view.php:29
+msgid "Please give your email address."
+msgstr "Παρακαλώ δώστε το e-mail σας."
+
+#: class.cscf_contact.php:62
+msgid "Please confirm your email address."
+msgstr "Παρακαλώ επιβεβαιώστε το e-mail σας. "
+
+#: class.cscf_contact.php:66 views/contact-form.view.php:62
+msgid "Please give your name."
+msgstr "Δώστε το όνομα σας."
+
+#: class.cscf_contact.php:70
+msgid "Please enter a message."
+msgstr "Δώστε το μήνυμα."
+
+#: class.cscf_contact.php:74 views/contact-form.view.php:30
+#: views/contact-form.view.php:47
+msgid "Please enter a valid email address."
+msgstr "Παρακαλώ δώστε έγκυρη διεύθυνση e-mail."
+
+#: class.cscf_contact.php:82
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr ""
+"Συγνώμη ο κωδικός που δώσατε δεν είναι σωστός. Παρακαλώ δοκιμάστε ξανά. "
+
+#: class.cscf_pluginsettings.php:40
+msgid "Message Sent"
+msgstr "Το μήνυμα εστάλη. "
+
+#: class.cscf_pluginsettings.php:47
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr ""
+"Ευχαριστούμε για το μήνυμα, θα επικοινωνήσουμε μαζί σας το συντομότερο "
+"δυνατό. "
+
+#: class.cscf_pluginsettings.php:54
+msgid ""
+"Please enter your contact details and a short message below and I will try "
+"to answer your query as soon as possible."
+msgstr ""
+"Παρακαλώ δώστε τα στοιχεία επικοινωνία σας και ένα σύντομο μήνυμα και θα "
+"επικοινωνήσουμε μαζί σας το συντομότερο δυνατό."
+
+#: class.cscf_pluginsettings.php:83
+msgid " -  Web Enquiry"
+msgstr " - Διαδικτυακή Επικοινωνία "
+
+#: class.cscf_settings.php:42
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Ρυθμίσεις της Φόρμας Επικοινωνίας Clean and Simple"
+
+#: class.cscf_settings.php:48
+msgid "Donate $10, $20 or $50!"
+msgstr "Δωρίστε $10, $20 ή $50!"
+
+#: class.cscf_settings.php:50
+msgid ""
+"If you like this plugin, please donate to support development and "
+"maintenance of:"
+msgstr ""
+"Εάν σας αρέσει αυτή η επέκταση, παρακαλώ δωρίστε για την υποστήριξη της "
+"ανάπτυξης και της συντήρησης του:"
+
+#: class.cscf_settings.php:50
+msgid "Clean and Simple Contact Form!"
+msgstr "Clean and Simple Φόρμα Επικοινωνίας!"
+
+#: class.cscf_settings.php:65
+msgid "You are using version"
+msgstr "Χρησιμοποιείτε την έκδοση"
+
+#: class.cscf_settings.php:66
+msgid "If you find this plugin useful please consider"
+msgstr "Εάν θεωρείτε αυτή την επέκταση χρήσιμη παρακαλώ σκεφτείτε να"
+
+#: class.cscf_settings.php:69
+msgid "leaving a review"
+msgstr "αφήσετε μια κριτική"
+
+#: class.cscf_settings.php:71
+msgid "Thank you!"
+msgstr "Ευχαριστούμε!"
+
+#: class.cscf_settings.php:76
+msgid ""
+"NOTICE: You have JetPack's Contact Form enabled please deactivate it or use "
+"the shortcode [cscf-contact-form] instead."
+msgstr ""
+"ΕΙΔΟΠΟΙΗΣΗ: Έχετε ενεργή την Φόρμα Επικοινωνίας JetPack, παρακαλώ "
+"απενεργοποιήστε την ή αντί αυτού χρησιμοποιήστε το shortcode [CSCF-φόρμα "
+"επικοινωνίας]."
+
+#: class.cscf_settings.php:77
+msgid "Read More"
+msgstr "Διαβάστε περισσότερα"
+
+#: class.cscf_settings.php:81
+msgid "Please Note: To add the contact form to your page please add the text"
+msgstr ""
+"Σημείωση: Για να προσθέσετε τη φόρμα επικοινωνίας στη σελίδα σας, "
+"παρακαλούμε προσθέστε το κείμενο"
+
+#: class.cscf_settings.php:81
+msgid "to your post or page."
+msgstr "στη δημοσίευση ή τη σελίδα σας."
+
+#: class.cscf_settings.php:112
+msgid "ReCAPTCHA Settings"
+msgstr "Ρυθμίσεις ReCAPTCHA"
+
+#: class.cscf_settings.php:120
+msgid "Use reCAPTCHA :"
+msgstr "Χρησιμοποιήστε το reCAPTCHA:"
+
+#: class.cscf_settings.php:126
+msgid "reCAPTCHA Theme :"
+msgstr "reCAPTCHA Θέμα:"
+
+#: class.cscf_settings.php:132
+msgid "reCAPTCHA Public Key :"
+msgstr "reCAPTCHA δημόσιο κλειδί:"
+
+#: class.cscf_settings.php:138
+msgid "reCAPTCHA Private Key :"
+msgstr "reCAPTCHA ιδιωτικό κλειδί:"
+
+#: class.cscf_settings.php:144
+msgid "Message Settings"
+msgstr "Ρυθμίσεις Μηνυμάτων"
+
+#: class.cscf_settings.php:148
+msgid "Recipient Email :"
+msgstr "E-mail Αποδέκτη:"
+
+#: class.cscf_settings.php:154
+msgid "Override 'From' Address :"
+msgstr "Υπέρβαση διεύθυνσης 'Από':"
+
+#: class.cscf_settings.php:160
+msgid "'From' Email Address :"
+msgstr "e-Mail Διεύθυνση 'Από':"
+
+#: class.cscf_settings.php:166
+msgid "Email Subject :"
+msgstr "Θέμα e-Mail:"
+
+#: class.cscf_settings.php:172
+msgid "Message :"
+msgstr "Μήνυμα:"
+
+#: class.cscf_settings.php:178
+msgid "Message Sent Heading :"
+msgstr "Επικεφαλίδα Αποστολής e-mail:"
+
+#: class.cscf_settings.php:184
+msgid "Message Sent Content :"
+msgstr "Περιεχόμενο Αποστολής e-mail:"
+
+#: class.cscf_settings.php:190
+msgid "Styling and Validation"
+msgstr "Εμφάνιση και Επικύρωση"
+
+#: class.cscf_settings.php:194
+msgid ""
+"Use the plugin default stylesheet (un-tick to use your theme style sheet "
+"instead) :"
+msgstr ""
+"Χρησιμοποιήστε το προεπιλεγμένο stylesheet της επέκτασης (από-επιλέξτε για "
+"να χρησιμοποιήσει το stylesheet του δικού σας θέματος):"
+
+#: class.cscf_settings.php:200
+msgid "Use client side validation (AJAX) :"
+msgstr "Χρησιμοποιήστε την επικύρωση (AJAX):"
+
+#: class.cscf_settings.php:287
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Εισάγετε τις ρυθμίσεις reCAPTCHA παρακάτω:"
+
+#: class.cscf_settings.php:288
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr ""
+"Για να χρησιμοποιήσετε το reCAPTCHA πρέπει να πάρετε ένα API κλειδί από"
+
+#: class.cscf_settings.php:293
+msgid "Enter your message settings below :"
+msgstr "Εισάγετε τις ρυθμίσεις του μηνύματος σας παρακάτω:"
+
+#: class.cscf_settings.php:353
+msgid "Red"
+msgstr "Κόκκινο"
+
+#: class.cscf_settings.php:354
+msgid "White"
+msgstr "Λευκό"
+
+#: class.cscf_settings.php:355
+msgid "Blackglass"
+msgstr "Μαύρο Γυαλί"
+
+#: class.cscf_settings.php:356
+msgid "Clean"
+msgstr "Καθαρό"
+
+#: views/contact-form.view.php:24
+msgid "Email Address:"
+msgstr "Διεύθυνση e-mail:"
+
+#: views/contact-form.view.php:33
+msgid "Your Email Address"
+msgstr "Το e-mail σας:"
+
+#: views/contact-form.view.php:40
+msgid "Confirm Email Address:"
+msgstr "Επιβεβαιώστε τη διεύθυνση e-mail:"
+
+#: views/contact-form.view.php:46 views/contact-form.view.php:48
+msgid "Please enter the same email address again."
+msgstr "Παρακαλώ δώστε το ίδιο e-mail ξανά. "
+
+#: views/contact-form.view.php:51
+msgid "Confirm Your Email Address"
+msgstr "Επιβεβαιώστε το e-mail σας"
+
+#: views/contact-form.view.php:58
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: views/contact-form.view.php:65
+msgid "Your Name"
+msgstr "Το Όνομα σας"
+
+#: views/contact-form.view.php:72
+msgid "Message:"
+msgstr "Μήνυμα:"
+
+#: views/contact-form.view.php:76
+msgid "Please give a message."
+msgstr "Παρακαλώ δώστε το μήνυμα σας."
+
+#: views/contact-form.view.php:78
+msgid "Your Message"
+msgstr "Το Μήνυμα σας"
+
+#: views/contact-form.view.php:101
+msgid "Send Message"
+msgstr "Αποστολή Μηνύματος"
+
+#: views/message-not-sent.view.php:1
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Δυστυχώς, υπήρξε ένα πρόβλημα και το μήνυμά σας δεν στάλθηκε."
+
+#. Plugin Name of the plugin/theme
+msgid "Clean and Simple Contact Form"
+msgstr "Clean and Simple Φόρμα Επικοινωνίας"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+msgstr ""
+"http://www.megnicholas.co.uk/wordpress-plugins/clean-and-simple-contact-form"
+
+#. Description of the plugin/theme
+msgid ""
+"A clean and simple contact form with Google reCAPTCHA and Twitter Bootstrap "
+"markup."
+msgstr ""
+"Μία απλή και καθαρή φόρμα επικοινωνίας με Google reCAPTCHA και Twitter "
+"Bootstrap markup."
+
+#. Author of the plugin/theme
+msgid "Meghan Nicholas"
+msgstr "Meghan Nicholas"
+
+#. Author URI of the plugin/theme
+msgid "http://www.megnicholas.co.uk"
+msgstr "http://www.megnicholas.co.uk"

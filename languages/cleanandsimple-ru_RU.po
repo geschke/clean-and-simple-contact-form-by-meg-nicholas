@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean and Simple Contact Form v4.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-09-08 18:29:31+0000\n"
+"Last-Translator: guidenumber <guidenumber@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class.cscf.php:106
+#@ contact-form
+msgid "Settings"
+msgstr ""
+
+#: class.cscf_contact.php:54
+#@ cleanandsimple
+msgid "Sorry the email addresses do not match."
+msgstr "Извините, адреса почты не совпадают."
+
+#: class.cscf_contact.php:58
+#: views/contact-form.view.php:29
+#@ cleanandsimple
+msgid "Please give your email address."
+msgstr "Пожалуйста, введите адрес вашей почты."
+
+#: class.cscf_contact.php:62
+#@ cleanandsimple
+msgid "Please confirm your email address."
+msgstr "Пожалуйста, подтвердите адрес вашей почты."
+
+#: class.cscf_contact.php:66
+#: views/contact-form.view.php:62
+#@ cleanandsimple
+msgid "Please give your name."
+msgstr "Пожалуйста, введите ваше имя."
+
+#: class.cscf_contact.php:70
+#@ cleanandsimple
+msgid "Please enter a message."
+msgstr "Пожалуйста, введите ваше сообщение."
+
+#: class.cscf_contact.php:74
+#: views/contact-form.view.php:30
+#: views/contact-form.view.php:47
+#@ cleanandsimple
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста, используйте настоящий адрес почты."
+
+#: class.cscf_contact.php:82
+#@ cleanandsimple
+msgid "Sorry the code wasn't entered correctly please try again."
+msgstr "Код был введен неправильно. Пожалуйста, попробуйте снова."
+
+#: class.cscf_pluginsettings.php:40
+#@ cleanandsimple
+msgid "Message Sent"
+msgstr "Сообщение отправлено"
+
+#: class.cscf_pluginsettings.php:47
+#@ cleanandsimple
+msgid "Thank you for your message, we will be in touch very shortly."
+msgstr "Спасибо за ваше обращение. Мы с вами свяжемся."
+
+#: class.cscf_pluginsettings.php:54
+#@ cleanandsimple
+msgid "Please enter your contact details and a short message below and I will try to answer your query as soon as possible."
+msgstr "Пожалуйста, введите ваши контактные данные и ваше сообщение в форму и мы попытаемся ответить вам как можно скорее."
+
+#: class.cscf_pluginsettings.php:83
+#@ cleanandsimple
+msgid " -  Web Enquiry"
+msgstr " - Веб-запрос"
+
+#: class.cscf_settings.php:41
+#@ cleanandsimple
+msgid "Clean and Simple Contact Form Settings"
+msgstr "Простая и ясная форма обратной связи. Настройки"
+
+#: class.cscf_settings.php:43
+#@ cleanandsimple
+msgid "You are using version"
+msgstr "Вы используете версию"
+
+#: class.cscf_settings.php:44
+#@ cleanandsimple
+msgid "If you find this plugin useful please consider"
+msgstr "Если вы считаете этот плагин полезным, то мы будем рады"
+
+#: class.cscf_settings.php:47
+#@ cleanandsimple
+msgid "leaving a review"
+msgstr "вашему отзыву"
+
+#: class.cscf_settings.php:49
+#@ cleanandsimple
+msgid "Thank you!"
+msgstr "Спасибо!"
+
+#: class.cscf_settings.php:54
+#@ cleanandsimple
+msgid "NOTICE: You have JetPack's Contact Form enabled please deactivate it or use the shortcode [cscf-contact-form] instead."
+msgstr "ВНИМАНИЕ! У вас установлен плагин JetPack's Contact Form. Пожалуйста, деактивируйте его, чтобы избежать ошибок в совместимости, или используйте [cscf-contact-form] вместо [contact-form]."
+
+#: class.cscf_settings.php:55
+#@ default
+msgid "Read More"
+msgstr ""
+
+#: class.cscf_settings.php:87
+#@ cleanandsimple
+msgid "ReCAPTCHA Settings"
+msgstr "Настройки ReCAPTCHA"
+
+#: class.cscf_settings.php:95
+#@ cleanandsimple
+msgid "Use reCAPTCHA :"
+msgstr "Использовать ReCAPTCHA:"
+
+#: class.cscf_settings.php:101
+#@ cleanandsimple
+msgid "reCAPTCHA Theme :"
+msgstr "Тема оформления ReCAPTCHA:"
+
+#: class.cscf_settings.php:107
+#@ cleanandsimple
+msgid "reCAPTCHA Public Key :"
+msgstr "Публичный ключ reCAPTCHA (Public Key):"
+
+#: class.cscf_settings.php:113
+#@ cleanandsimple
+msgid "reCAPTCHA Private Key :"
+msgstr "Секретный ключ reCAPTCHA (Private Key):"
+
+#: class.cscf_settings.php:119
+#@ cleanandsimple
+msgid "Message Settings"
+msgstr "Настройки формы"
+
+#: class.cscf_settings.php:123
+#@ cleanandsimple
+msgid "Recipient Email :"
+msgstr "Почта получателя:"
+
+#: class.cscf_settings.php:129
+#@ cleanandsimple
+msgid "Override 'From' Address :"
+msgstr "Переопределить адрес отправителя (From):"
+
+#: class.cscf_settings.php:135
+#@ cleanandsimple
+msgid "'From' Email Address :"
+msgstr "Адрес отправителя (From):"
+
+#: class.cscf_settings.php:141
+#@ cleanandsimple
+msgid "Email Subject :"
+msgstr "Тема письма:"
+
+#: class.cscf_settings.php:147
+#@ cleanandsimple
+msgid "Message :"
+msgstr "Сообщение:"
+
+#: class.cscf_settings.php:153
+#@ cleanandsimple
+msgid "Message Sent Heading :"
+msgstr "Заголовок подтверждения успешной отправки сообщения:"
+
+#: class.cscf_settings.php:159
+#@ cleanandsimple
+msgid "Message Sent Content :"
+msgstr "Текст подтверждения успешной отправки сообщения:"
+
+#: class.cscf_settings.php:165
+#@ cleanandsimple
+msgid "Styling and Validation"
+msgstr "Стиль и валидация"
+
+#: class.cscf_settings.php:169
+#@ cleanandsimple
+msgid "Use the plugin default stylesheet (un-tick to use your theme style sheet instead) :"
+msgstr "Использовать стили оформления поставляемые с плагином:"
+
+#: class.cscf_settings.php:175
+#@ cleanandsimple
+msgid "Use client side validation (AJAX) :"
+msgstr "Использовать валидацию на клиенте (AJAX):"
+
+#: class.cscf_settings.php:262
+#@ cleanandsimple
+msgid "Enter your reCAPTCHA settings below :"
+msgstr "Введите настройки для использования reCAPTCHA:"
+
+#: class.cscf_settings.php:263
+#@ cleanandsimple
+msgid "To use reCAPTCHA you must get an API key from"
+msgstr "Для того чтобы использовать reCAPTCHA получите API ключи тут: "
+
+#: class.cscf_settings.php:268
+#@ cleanandsimple
+msgid "Enter your message settings below :"
+msgstr "Настройки для формы обратной связи:"
+
+#: class.cscf_settings.php:328
+#@ cleanandsimple
+msgid "Red"
+msgstr "Красный"
+
+#: class.cscf_settings.php:329
+#@ cleanandsimple
+msgid "White"
+msgstr "Белый"
+
+#: class.cscf_settings.php:330
+#@ cleanandsimple
+msgid "Blackglass"
+msgstr "Чёрное стекло"
+
+#: class.cscf_settings.php:331
+#@ cleanandsimple
+msgid "Clean"
+msgstr "Чистый"
+
+#: views/contact-form.view.php:24
+#@ cleanandsimple
+msgid "Email Address:"
+msgstr "Адрес почты:"
+
+#: views/contact-form.view.php:33
+#@ cleanandsimple
+msgid "Your Email Address"
+msgstr "Ваш адрес почты"
+
+#: views/contact-form.view.php:40
+#@ cleanandsimple
+msgid "Confirm Email Address:"
+msgstr "Подтвердите адрес почты"
+
+#: views/contact-form.view.php:46
+#: views/contact-form.view.php:48
+#@ cleanandsimple
+msgid "Please enter the same email address again."
+msgstr "Введите тот-же адрес почты еще раз."
+
+#: views/contact-form.view.php:51
+#@ cleanandsimple
+msgid "Confirm Your Email Address"
+msgstr "Подтвердите адрес вашей почты"
+
+#: views/contact-form.view.php:58
+#@ cleanandsimple
+msgid "Name:"
+msgstr "Имя:"
+
+#: views/contact-form.view.php:65
+#@ cleanandsimple
+msgid "Your Name"
+msgstr "Ваше имя"
+
+#: views/contact-form.view.php:72
+#@ cleanandsimple
+msgid "Message:"
+msgstr "Сообщение:"
+
+#: views/contact-form.view.php:76
+#@ cleanandsimple
+msgid "Please give a message."
+msgstr "Пожалуйста, введи текст сообщения."
+
+#: views/contact-form.view.php:78
+#@ cleanandsimple
+msgid "Your Message"
+msgstr "Ваше сообщение"
+
+#: views/contact-form.view.php:101
+#@ cleanandsimple
+msgid "Send Message"
+msgstr "Отправить"
+
+#: views/message-not-sent.view.php:1
+#@ cleanandsimple
+msgid "Sorry, there has been a problem and your message was not sent."
+msgstr "Простите, но случилась неизвестная ошибка и ваше письмо не было отправлено."
+
